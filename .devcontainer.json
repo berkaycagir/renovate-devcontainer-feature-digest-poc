@@ -1,0 +1,9 @@
+{
+	"name": "Python 3",
+	"image": "mcr.microsoft.com/devcontainers/python:1.1.10-3.12-bookworm",
+	"features": {
+		"ghcr.io/devcontainers/features/aws-cli:1.0.7": {
+			"version": "2.15.47"
+		}
+	}
+}
